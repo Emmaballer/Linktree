@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/006/377/739/original/simple-abstract-brown-aesthetic-pattern-background-free-vector.jpg')
+}
+h1{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(0, 0, 0)
+}
+div{
+    color:rgb(0, 0, 0) 
+}
+main{
+    font-family: Helvetica Light, Arial, sans-serif;
+   color: rgba(0, 0, 0, 0.647);
+}
+section{
+    color: rgba(0, 0, 0, 0.647);
+}
+h3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    color:rgb(0, 0, 0)
+}
+img{
+   
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+}
+.mybutton{
+    background-size: cover;
+    border-radius: 25px;
+}
